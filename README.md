@@ -1,1 +1,1 @@
-# fizbuzz
+# fiz_buzz
